@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.home-page{
+  /* border:1px solid red; */
+  background-color: aliceblue;
+  /* padding-left:40%;
+  padding-top:10%; */
+  min-height: 90vh;
+  text-align: center;
+  position: relative;
+}
+.home-div{
+  background-color: aliceblue;
+  padding: auto;
+}
+.nav-item a{
+  text-decoration: none;
+  color:blue;
+}
+.nav-item a:hover{
+  color:rgb(4, 156, 75);
+}
